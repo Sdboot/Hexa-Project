@@ -178,9 +178,7 @@
     max-width: 1200px;
     margin: 0 auto;
     overflow-y: hidden;
-  }
-
-  .controls {
+  }  .controls {
     display: grid;
     grid-template-columns: auto 1fr auto;
     gap: 1rem;
@@ -281,7 +279,9 @@
     gap: 1rem;
     margin-top: 1rem;
   }
-
+ h1{
+  font-size: 4rem;
+ }
   button {
     padding: 0.5rem 1rem;
     min-height: 35px;
@@ -412,8 +412,9 @@
       margin: 0.25rem 0;
     }
      h1 {
-      font-size: 1.2rem;
-      margin: 0.5rem 0;
+
+      font-size: 1.6rem;
+      margin: 2rem 0;
     }
 
     .icon-button {
