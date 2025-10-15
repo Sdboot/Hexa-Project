@@ -61,7 +61,7 @@
 </script>
 
 <main class={$theme}>
-  <h1>User Management Dashboard</h1>
+  <h1>User Administration Panel</h1>
 
   <div class="controls">
     <!-- Theme Toggle -->
