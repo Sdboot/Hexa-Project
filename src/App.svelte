@@ -330,7 +330,8 @@
       opacity: 1;
     }
   }
-  /* Make table responsive */
+  
+  
   @media (max-width: 600px) {
 
      * {

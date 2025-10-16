@@ -7,7 +7,7 @@ const initialUsers = storedUsers ? JSON.parse(storedUsers) : [
     { id: 2, name: 'Jane Smith', email: 'jane@example.com', role: 'User' }
 ];
 
-// Create the store
+// Create store
 const users = writable(initialUsers);
 
 // Subscribe to changes and update localStorage
